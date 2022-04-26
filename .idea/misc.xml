@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/drawable/btn.xml" value="0.2075" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/drawable/btncolor.xml" value="0.2075" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/drawable/circle.xml" value="0.2075" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/drawable/styles.xml" value="0.2075" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_estreno1.xml" value="0.22" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_estreno3.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_estreno4.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_estreno5.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_presentacion.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_trailer.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_trailer2.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_trailer3.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_trailer4.xml" value="0.1859375" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/activity_trailer5.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/estreno2.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/genero.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/popup.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/imageslider-master/app/src/main/res/layout/slider_item.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/drawable/bg_test.xml" value="0.2075" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/drawable/btn.xml" value="0.1" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/drawable/btncolor.xml" value="0.1" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/drawable/cerclebackground.xml" value="0.114" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/drawable/cerclebackground_btn.xml" value="0.2075" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/layout/activity_estreno1.xml" value="0.22" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/layout/activity_presentacion.xml" value="0.18" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/layout/popup.xml" value="0.33" />
+        <entry key="..\:/Users/cesar/Downloads/imageslider-master/app/src/main/res/layout/slider_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

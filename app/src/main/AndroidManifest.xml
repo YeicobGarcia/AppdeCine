@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.imageslider">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:requestLegacyExternalStorage="true"
+        android:theme="@style/Theme.Imageslider">
+        <activity
+            android:name=".Registro"
+            android:exported="false" />
+        <activity
+            android:name=".trailer5"
+            android:exported="false" />
+        <activity
+            android:name=".Estreno5"
+            android:exported="false" />
+        <activity
+            android:name=".trailer4"
+            android:exported="false" />
+        <activity
+            android:name=".Estreno4"
+            android:exported="false" />
+        <activity
+            android:name=".trailer3"
+            android:exported="false" />
+        <activity
+            android:name=".Estreno3"
+            android:exported="false" />
+        <activity
+            android:name=".trailer2"
+            android:exported="false" />
+        <activity
+            android:name=".trailer"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity android:name=".Estreno" />
+        <activity android:name=".Estreno2" />
+        <activity
+            android:name=".Presentacion"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
